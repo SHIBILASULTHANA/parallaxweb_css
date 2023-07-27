@@ -74,3 +74,8 @@ body{
     background-color: rgb(73, 74, 75);
     color: white;
 }
+@media(max-width:450px){
+    .content3 h1{
+        font-size: larger;
+    }
+}
