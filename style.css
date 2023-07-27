@@ -75,7 +75,20 @@ body{
     color: white;
 }
 @media(max-width:450px){
-    .content3 h1{
-        font-size: larger;
+    #content{
+        padding: 0 10px;
     }
+    .content1 h1{
+        font-size: large;
+    }
+    .content2 h1{
+        font-size: large;
+    }
+    .content3 h1{
+        font-size: 11px;
+    }
+    .content4 h1{
+        font-size: large;
+    }
+    
 }
